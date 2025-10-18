@@ -27,6 +27,7 @@
   - Tints: 
   #fdf2e9
   #fae5d3
+  #eb984e
 
   - Shades:#cf711f
   - Accents:
@@ -36,6 +37,8 @@
   #333
   
   --- 03 SHADOWS
+
+  0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
   
   --- 04 BORDER-RADIUS
     
